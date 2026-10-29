@@ -1,0 +1,5 @@
+# Posters are public images only: never run scripts from this folder
+Options -Indexes
+<FilesMatch "\.(php|phtml|phar|php[0-9]|pl|py|cgi|sh|html?|js)$">
+    Require all denied
+</FilesMatch>

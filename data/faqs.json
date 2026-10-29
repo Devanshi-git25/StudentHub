@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "How do I register on StudentHub?",
+    "answer": "Open the Register page, fill in your details and accept the terms. You can log in straight after.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "I forgot my password. What should I do?",
+    "answer": "Contact the administrator to have your password reset. A self-service reset will be added later.",
+    "category": "Account"
+  },
+  {
+    "id": 3,
+    "question": "What does Remember Me do?",
+    "answer": "It keeps you signed in on this device for up to 30 days using a secure random token.",
+    "category": "Account"
+  },
+  {
+    "id": 4,
+    "question": "Why was I logged out automatically?",
+    "answer": "For security, sessions expire after a period of inactivity. Just log in again.",
+    "category": "Account"
+  },
+  {
+    "id": 5,
+    "question": "How do I register for an event?",
+    "answer": "Open the Events page, pick an event and follow the registration details. Seats are limited.",
+    "category": "Events"
+  },
+  {
+    "id": 6,
+    "question": "Can I cancel an event registration?",
+    "answer": "Yes. Contact the event organiser before the registration deadline.",
+    "category": "Events"
+  },
+  {
+    "id": 7,
+    "question": "Where can I see upcoming events?",
+    "answer": "The Events page lists all upcoming events with search, filters and sorting.",
+    "category": "Events"
+  },
+  {
+    "id": 8,
+    "question": "Who can add or edit events?",
+    "answer": "Only administrators can add, update or delete events.",
+    "category": "Events"
+  },
+  {
+    "id": 9,
+    "question": "How do I update my profile?",
+    "answer": "Go to Profile and use the Update Profile option. Some fields are locked by the administration.",
+    "category": "Profile"
+  },
+  {
+    "id": 10,
+    "question": "Which browsers are supported?",
+    "answer": "Any modern browser such as Chrome, Edge, Firefox or Safari.",
+    "category": "General"
+  },
+  {
+    "id": 11,
+    "question": "Is StudentHub mobile friendly?",
+    "answer": "Yes. The layout adapts to mobile, tablet and desktop screens.",
+    "category": "General"
+  },
+  {
+    "id": 12,
+    "question": "How do I switch to dark mode?",
+    "answer": "Use the Dark Mode button in the header. Your choice is remembered.",
+    "category": "General"
+  },
+  {
+    "id": 13,
+    "question": "Where do I send feedback?",
+    "answer": "Use the Feedback page. Your message is stored securely for the administrators.",
+    "category": "General"
+  },
+  {
+    "id": 14,
+    "question": "Who is the Alumni section for?",
+    "answer": "Former students who want to stay connected and mentor current students.",
+    "category": "Alumni"
+  },
+  {
+    "id": 15,
+    "question": "How can I join a research project?",
+    "answer": "Visit the Research page to see open projects and contact the project lead.",
+    "category": "Research"
+  }
+]

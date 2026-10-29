@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Devanshi Patel",
+    "enrollmentNo": "23CS001",
+    "course": "BTech CSE",
+    "year": "2nd Year",
+    "email": "devanshi.patel@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Aarav Shah",
+    "enrollmentNo": "23CS002",
+    "course": "BTech CSE",
+    "year": "2nd Year",
+    "email": "aarav.shah@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Riya Mehta",
+    "enrollmentNo": "23IT003",
+    "course": "BTech IT",
+    "year": "2nd Year",
+    "email": "riya.mehta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Kabir Joshi",
+    "enrollmentNo": "23EC004",
+    "course": "BTech Electronics",
+    "year": "2nd Year",
+    "email": "kabir.joshi@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Ananya Desai",
+    "enrollmentNo": "22CS005",
+    "course": "BTech CSE",
+    "year": "3rd Year",
+    "email": "ananya.desai@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Vivaan Trivedi",
+    "enrollmentNo": "22IT006",
+    "course": "BTech IT",
+    "year": "3rd Year",
+    "email": "vivaan.trivedi@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Isha Parmar",
+    "enrollmentNo": "24CS007",
+    "course": "BTech CSE",
+    "year": "1st Year",
+    "email": "isha.parmar@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Rohan Bhatt",
+    "enrollmentNo": "24ME008",
+    "course": "BTech Mechanical",
+    "year": "1st Year",
+    "email": "rohan.bhatt@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Meera Nair",
+    "enrollmentNo": "21CS009",
+    "course": "BTech CSE",
+    "year": "4th Year",
+    "email": "meera.nair@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Arjun Solanki",
+    "enrollmentNo": "21EC010",
+    "course": "BTech Electronics",
+    "year": "4th Year",
+    "email": "arjun.solanki@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Diya Chauhan",
+    "enrollmentNo": "23IT011",
+    "course": "BTech IT",
+    "year": "2nd Year",
+    "email": "diya.chauhan@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Yash Vyas",
+    "enrollmentNo": "22ME012",
+    "course": "BTech Mechanical",
+    "year": "3rd Year",
+    "email": "yash.vyas@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Sneha Rana",
+    "enrollmentNo": "24IT013",
+    "course": "BTech IT",
+    "year": "1st Year",
+    "email": "sneha.rana@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Harsh Pandya",
+    "enrollmentNo": "23ME014",
+    "course": "BTech Mechanical",
+    "year": "2nd Year",
+    "email": "harsh.pandya@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Pooja Thakkar",
+    "enrollmentNo": "22EC015",
+    "course": "BTech Electronics",
+    "year": "3rd Year",
+    "email": "pooja.thakkar@example.com"
+  }
+]

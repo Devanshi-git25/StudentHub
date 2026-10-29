@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub - Students</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>StudentHub</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.php">Dashboard</a></li>
+            <li><a href="profile.php">Profile</a></li>
+            <li><a href="events.php">Events</a></li>
+            <li><a href="students.html">Students</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="campus.html">Campus</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="alumni.html">Alumni</a></li>
+            <li><a href="feedback.php">Feedback</a></li>
+            <li><a href="login.php">Login</a></li>
+            <li><a href="register.php">Register</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <section id="listApp" data-source="data/students.json" data-type="students" data-page-size="6">
+            <h2>Student Directory</h2>
+            <p>Browse students by name, course or enrollment number.</p>
+
+            <div class="controls">
+                <div>
+                    <label for="searchBox">Search</label>
+                    <input type="search" id="searchBox" placeholder="Search students...">
+                </div>
+                <div>
+                    <label for="filterSelect">Filter</label>
+                    <select id="filterSelect"></select>
+                </div>
+                <div>
+                    <label for="sortSelect">Sort by</label>
+                    <select id="sortSelect"></select>
+                </div>
+            </div>
+
+            <p id="listStatus" role="status">Loading...</p>
+            <div id="listContainer" class="card-grid"></div>
+            <div id="pagination" class="pagination" role="navigation" aria-label="Pagination"></div>
+        </section>
+
+        <aside>
+            <h3>Tip</h3>
+            <p>Use the course filter to narrow the list.</p>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 StudentHub. All Rights Reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+
+</body>
+
+</html>

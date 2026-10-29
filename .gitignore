@@ -1,0 +1,15 @@
+# Generated at runtime (feedback form data) - keep the folder, not the data
+storage/*.csv
+storage/*.json
+
+# Uploaded posters (keep the folder and its .htaccess)
+uploads/posters/*
+!uploads/posters/.htaccess
+!uploads/posters/.gitkeep
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

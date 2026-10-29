@@ -1,0 +1,2 @@
+# Block direct web access to stored form data (Apache 2.4)
+Require all denied

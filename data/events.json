@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Fest 2026",
+    "date": "2026-11-15",
+    "category": "Technical",
+    "venue": "Main Auditorium",
+    "description": "Coding competitions, robotics exhibitions and innovation showcases."
+  },
+  {
+    "id": 2,
+    "title": "Career Development Workshop",
+    "date": "2026-11-18",
+    "category": "Career",
+    "venue": "Seminar Hall A",
+    "description": "Resume writing, interview techniques and career planning with industry experts."
+  },
+  {
+    "id": 3,
+    "title": "Annual Cultural Festival",
+    "date": "2026-12-05",
+    "category": "Cultural",
+    "venue": "Open Air Theatre",
+    "description": "Music, dance, drama, art exhibitions and food stalls run by students."
+  },
+  {
+    "id": 4,
+    "title": "Inter-College Cricket Cup",
+    "date": "2026-11-22",
+    "category": "Sports",
+    "venue": "University Ground",
+    "description": "Knockout cricket tournament between 8 colleges."
+  },
+  {
+    "id": 5,
+    "title": "AI/ML Bootcamp",
+    "date": "2026-11-28",
+    "category": "Workshop",
+    "venue": "Computer Lab 3",
+    "description": "Two-day hands-on introduction to machine learning with Python."
+  },
+  {
+    "id": 6,
+    "title": "Hackathon 24",
+    "date": "2026-12-12",
+    "category": "Technical",
+    "venue": "Innovation Centre",
+    "description": "24-hour team hackathon with prizes and mentoring."
+  },
+  {
+    "id": 7,
+    "title": "Photography Walk",
+    "date": "2026-11-20",
+    "category": "Cultural",
+    "venue": "Campus Gardens",
+    "description": "Guided photo walk followed by a mini exhibition."
+  },
+  {
+    "id": 8,
+    "title": "Web Development Workshop",
+    "date": "2026-12-02",
+    "category": "Workshop",
+    "venue": "Computer Lab 1",
+    "description": "HTML, CSS, JavaScript and PHP basics for beginners."
+  },
+  {
+    "id": 9,
+    "title": "Placement Preparation Drive",
+    "date": "2026-12-08",
+    "category": "Career",
+    "venue": "Seminar Hall B",
+    "description": "Aptitude, group discussion and mock interview sessions."
+  },
+  {
+    "id": 10,
+    "title": "Basketball League Finals",
+    "date": "2026-12-15",
+    "category": "Sports",
+    "venue": "Indoor Stadium",
+    "description": "Final matches of the inter-department league."
+  },
+  {
+    "id": 11,
+    "title": "Open Mic Night",
+    "date": "2026-11-25",
+    "category": "Cultural",
+    "venue": "Student Cafe",
+    "description": "Poetry, stand-up and live music by students."
+  },
+  {
+    "id": 12,
+    "title": "Robotics Showcase",
+    "date": "2027-01-10",
+    "category": "Technical",
+    "venue": "Mechanical Block",
+    "description": "Line followers, drones and autonomous robots on display."
+  },
+  {
+    "id": 13,
+    "title": "Resume Review Clinic",
+    "date": "2027-01-18",
+    "category": "Career",
+    "venue": "Library Hall",
+    "description": "One-to-one resume feedback from alumni mentors."
+  },
+  {
+    "id": 14,
+    "title": "Cyber Security Awareness Talk",
+    "date": "2027-01-24",
+    "category": "Workshop",
+    "venue": "Main Auditorium",
+    "description": "Online safety, phishing and password hygiene."
+  },
+  {
+    "id": 15,
+    "title": "Annual Sports Day",
+    "date": "2027-02-06",
+    "category": "Sports",
+    "venue": "University Ground",
+    "description": "Track and field events, relay races and team games."
+  }
+]
